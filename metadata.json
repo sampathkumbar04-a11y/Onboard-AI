@@ -1,0 +1,6 @@
+{
+  "name": "AI Adaptive Onboarding Engine",
+  "description": "An AI-powered onboarding and skills alignment engine that analyzes candidate resumes against job descriptions, pinpoints technical and soft skill gaps, calculates match percentages with transparent grading, and generates personalized week-by-week learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
